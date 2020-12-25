@@ -4,7 +4,7 @@
 MP3 to OGG Convertor🔄
 
 
-SeT ToKen *666999*
+Find '666999' and replace your bot token !i!
 
 
 set webhook!
